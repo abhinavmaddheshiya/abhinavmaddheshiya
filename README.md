@@ -4,7 +4,7 @@
 <h3 align="center">Pursuing B.Tech CSE (4th year) from AKGEC</h2>
 <br><br>
 <p> 🌱 I’m currently learning Web Development</p>
-<p> ✨ Will learn Machine Learning next</p>
+<p> ✨ AWS Certified Cloud Practitioner</p>
 <p> 📫 Reach out to me at guptaabhinav434@gmail.com</p>
 <p> 💻 My primary coding language: C++ </p>
 <br>
