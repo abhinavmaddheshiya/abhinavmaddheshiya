@@ -3,10 +3,10 @@
 <h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m Abhinav Gupta </h1>
 <h3 align="center">Pursued B.Tech CSE from AKGEC</h2>
 <br><br>
-<p> 🌱 I’m currently learning Web Development</p>
+<p> 🌱 Software Engineer</p>
 <p> ✨ AWS Certified Developer Associate</p>
 <p> 📫 Reach out to me at guptaabhinav434@gmail.com</p>
-<p> 💻 My primary coding language: C++ </p>
+<p> 💻 C++, Py, Java, Go </p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
