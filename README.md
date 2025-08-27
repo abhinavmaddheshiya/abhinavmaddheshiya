@@ -1,9 +1,9 @@
 <!--### Hi there 👋-->
 <br>
 <h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m Abhinav Gupta </h1>
-<h3 align="center">Pursued B.Tech CSE from AKGEC</h2>
+<h3 align="center">Software Engineer</h2>
 <br><br>
-<p> 🌱 Software Engineer</p>
+<p> 🌱 Backend Engineering</p>
 <p> ✨ AWS Certified Developer Associate</p>
 <p> 📫 Reach out to me at guptaabhinav434@gmail.com</p>
 <p> 💻 C++, Py, Java, Go </p>
